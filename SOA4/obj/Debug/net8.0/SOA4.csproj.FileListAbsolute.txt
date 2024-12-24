@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\SOA4\SOA4\bin\Debug\net8.0\SOA4.exe
+C:\Users\hp\source\repos\SOA4\SOA4\bin\Debug\net8.0\SOA4.deps.json
+C:\Users\hp\source\repos\SOA4\SOA4\bin\Debug\net8.0\SOA4.runtimeconfig.json
+C:\Users\hp\source\repos\SOA4\SOA4\bin\Debug\net8.0\SOA4.dll
+C:\Users\hp\source\repos\SOA4\SOA4\bin\Debug\net8.0\SOA4.pdb
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.AssemblyInfo.cs
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.sourcelink.json
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.dll
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\refint\SOA4.dll
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.pdb
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\SOA4.genruntimeconfig.cache
+C:\Users\hp\source\repos\SOA4\SOA4\obj\Debug\net8.0\ref\SOA4.dll
+C:\Users\hp\source\repos\SOA4\SOA4\bin\Debug\net8.0\Display.cs
